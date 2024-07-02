@@ -35,8 +35,8 @@ I'm a passionate Front-End Web Developer with a keen eye for design and a strong
 
 ## GitHub Stats
 
-![Asiful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifulalam&show_icons=true&theme=radical)
+![Asiful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiful-Alam&show_icons=true&theme=radical)
 
-![Asiful's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifulalam&theme=radical)
+![Asiful's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asiful-Alam&theme=radical)
 
-![Asiful's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifulalam&layout=compact&theme=radical)
+![Asiful's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiful-Alam&layout=compact&theme=radical)
