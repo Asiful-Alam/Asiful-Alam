@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co/Yk6V4VX/banner-image.jpg)
+![Banner Image](https://i.ibb.co/HYZK62x/github-header-image.png)
 # Hi, I'm Asiful Alam!
 
 I'm a passionate Front-End Web Developer with a keen eye for design and a strong focus on creating beautiful, responsive, and user-friendly websites. With a solid foundation in HTML, CSS, and JavaScript, I specialize in building interactive web interfaces using React and Tailwind CSS. I'm always eager to learn new technologies and enhance my skills to deliver the best possible user experience.
